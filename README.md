@@ -37,4 +37,4 @@ public class SerhiiKmyta {
 
 💬 Telegram: @serhiikmyta
 
-<p align="center"><b>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</b></p> ```
+<p align="center"><b>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</b></p>
