@@ -18,11 +18,17 @@ public class SerhiiKmyta {
 }
 
 🔹 Маю досвід у створенні повноцінних веб-додатків на Java із використанням Spring Boot, мікросервісної архітектури, Docker та реляційних баз даних.
+
 🔹 Пишу чистий, підтримуваний код та дотримуюсь принципів SOLID.
+
 🔹 Відкритий до нових можливостей, командної роботи та професійного розвитку.
+
 
 🛠️ Технології / Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/> </p>
+
+
+🚀 Мої проєкти / My Projects
 
 | Назва                  | Опис                                                                     | Технології                                    |
 | ---------------------- | ------------------------------------------------------------------------ | --------------------------------------------- |
@@ -41,4 +47,4 @@ public class SerhiiKmyta {
 
 💬 Telegram: @serhiikmyta
 
-<p align="center"><b>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</b></p> ```
+<p align="center"><b>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</b></p>
