@@ -7,15 +7,14 @@
 ---
 
 ### 👨‍💻 Про мене / About Me
-
-```java
+java
 public class SerhiiKmyta {
     String role = "Java Developer";
     String location = "Lviv, Ukraine";
     List<String> techStack = List.of("Spring Boot", "PostgreSQL", "Docker", "REST API", "JWT");
 
     boolean openToOpportunities = true;
-}```
+}
 🔹 Маю досвід у створенні повноцінних веб-додатків на Java із використанням Spring Boot, мікросервісної архітектури, Docker та реляційних баз даних.
 🔹 Пишу чистий, підтримуваний код та дотримуюсь принципів SOLID.
 🔹 Відкритий до нових можливостей, командної роботи та професійного розвитку.
