@@ -11,8 +11,11 @@
 java 
 public class SerhiiKmyta { 
     String role = "Java Developer"; 
+    
     String location = "Lviv, Ukraine"; 
+    
     List<String> techStack = List.of("Spring Boot", "PostgreSQL", "Docker", "REST API", "JWT"); 
+    
     boolean openToOpportunities = true; 
 }
 
@@ -23,7 +26,7 @@ public class SerhiiKmyta {
 🔹 Відкритий до нових можливостей, командної роботи та професійного розвитку.
 
 
-                                                                  🛠️ Технології / Tech Stack
+🛠️ Технології / Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/> </p>
 
 
