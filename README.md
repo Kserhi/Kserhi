@@ -9,7 +9,6 @@
 ### 👨‍💻 Про мене / About Me
 
 java
-
 public class SerhiiKmyta { 
 
     String role = "Java Developer"; 
@@ -19,6 +18,7 @@ public class SerhiiKmyta {
     List<String> techStack = List.of("Spring Boot", "PostgreSQL", "Docker", "REST API", "JWT"); 
     
     boolean openToOpportunities = true; 
+    
 }
 
 🔹 Маю досвід у створенні повноцінних веб-додатків на Java із використанням Spring Boot, мікросервісної архітектури, Docker та реляційних баз даних.
@@ -37,18 +37,18 @@ public class SerhiiKmyta {
 | Назва                  | Опис                                                                     | Технології                                    |
 | ---------------------- | ------------------------------------------------------------------------ | --------------------------------------------- |
 | 📋 **CRM для ЛДУ БЖД** | Дипломна CRM-система: облік користувачів, процесів, управління доступами | `Java`, `Spring Boot`, `PostgreSQL`, `Docker` |
-| 📚 **Library System**  | Система для бібліотеки з ролями (адміністратор, читач, бібліотекар)      | `Java`, `Spring`, `Spring Security`, `REST`   |
-| 📅 **Розклад ЛДУ БЖД** | Веб-додаток для перегляду розкладу занять студентами                     | `React`, `Spring Boot`, `PostgreSQL`          |
+| 🤖 **Telegram Bot**    | Бот для автоматизації сповіщень і взаємодії з користувачами              | `Java`, `Spring Boot`, `Telegram Bot API`     |
+
 
 
 📈 GitHub Статистика / Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kserhi&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kserhi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /> </p>
 
 📫 Контакти / Contacts
-💼 LinkedIn
+💼 [LinkedIn:](https://www.linkedin.com/in/serhii-kmyta/)
 
-✉️ Email: serhii.kmyta[at]example.com
+✉️ Email: movie.to.48@gmail.com
 
-💬 Telegram: @serhiikmyta
+💬 Telegram: @SerhiiKmyta
 
 <p align="center"><b>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</b></p>
