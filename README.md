@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Про мене / About Me
 
-```java
+java
 public class SerhiiKmyta {
     String role = "Java Developer";
     String location = "Lviv, Ukraine";
