@@ -10,9 +10,13 @@
 
 java
 public class SerhiiKmyta {
+
     String role = "Java Developer";
+    
     String location = "Lviv, Ukraine";
+    
     List<String> techStack = List.of("Spring Boot", "PostgreSQL", "Docker", "REST API", "JWT");
+    
 
     boolean openToOpportunities = true;
 }
