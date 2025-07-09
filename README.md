@@ -1,54 +1,77 @@
-<h1 align="center">Привіт, я Сергій Кмита! 👋</h1>
+# Serhii Kmyta  
+**Java Developer**  
 
-<p align="center">
-  💻 Java Developer | ☕ Spring Boot Enthusiast | 🚀 Мікросервіси та REST API | 🇺🇦 Lviv, Ukraine
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/serhii-kmyta) [![GitHub](https://img.shields.io/badge/GitHub-@Kserhi-black)](https://github.com/Kserhi)  
 
 ---
 
-### 👨‍💻 Про мене / About Me
+## 📋 Summary  
+Java Developer with hands-on backend experience in Java, Spring Boot, PostgreSQL, and Docker.  
+Winner of a national-level hackathon and graduate of the Java Pro course at Hillel IT School with honors.  
+Led development of a CRM system for digital service automation at LDUBGD. Currently working at the university’s R&D office, contributing to production-ready systems. Passionate about clean code, collaboration, and continuous growth through pet projects and active learning. :contentReference[oaicite:0]{index=0}
 
-java
-public class SerhiiKmyta { 
+---
 
-    String role = "Java Developer"; 
-    
-    String location = "Lviv, Ukraine"; 
-    
-    List<String> techStack = List.of("Spring Boot", "PostgreSQL", "Docker", "REST API", "JWT"); 
-    
-    boolean openToOpportunities = true; 
-    
-}
+## 🛠️ Skills  
+- **Languages & Frameworks:** Java Core, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Spring Cloud, Lombok  
+- **Databases:** PostgreSQL, MySQL  
+- **DevOps & Tools:** Docker, Maven, Git  
+- **Architecture & Patterns:** Microservices, RESTful API, API Integration, HTTP/HTTPS, Swagger  
+- **Testing:** Unit Testing (JUnit, Mockito) :contentReference[oaicite:1]{index=1}
 
-🔹 Маю досвід у створенні повноцінних веб-додатків на Java із використанням Spring Boot, мікросервісної архітектури, Docker та реляційних баз даних.
+---
 
-🔹 Пишу чистий, підтримуваний код та дотримуюсь принципів SOLID.
+## 💼 Experience  
 
-🔹 Відкритий до нових можливостей, командної роботи та професійного розвитку.
+### Java Developer, RQD Office at LDUBGD  
+`2024 – Present`  
+- Developed and maintained an emergency response system (web & mobile) used by volunteer doctors, police, and rescuers.  
+- Created and maintained REST endpoints for emergency services, improving stability and reducing bug reports by **30%**.  
+- Worked with service and repository layers using Spring Boot and Hibernate.  
+- Refactored legacy code, enhancing performance and maintainability.  
+- Participated in architectural discussions and technical planning. :contentReference[oaicite:2]{index=2}
 
+---
 
-🛠️ Технології / Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/> </p>
+## 🎓 Education  
+**B.Sc. in Computer Science**  
+Lviv State University of Life Safety, 2021 – 2025 :contentReference[oaicite:3]{index=3}
 
+---
 
-🚀 Мої проєкти / My Projects
+## 📜 Certifications & Courses  
+- **Java Pro**, Hillel IT School (with honors) – Certificate: [86056174](https://certificate.ithillel.ua/view/86056174) :contentReference[oaicite:4]{index=4}  
+- **Intermediate/B1 English Course**, Green Forest (2025) :contentReference[oaicite:5]{index=5}
 
-| Назва                  | Опис                                                                     | Технології                                    |
-| ---------------------- | ------------------------------------------------------------------------ | --------------------------------------------- |
-| 📋 **CRM для ЛДУ БЖД** | Дипломна CRM-система: облік користувачів, процесів, управління доступами | `Java`, `Spring Boot`, `PostgreSQL`, `Docker` |
-| 🤖 **Telegram Bot**    | Бот для автоматизації сповіщень і взаємодії з користувачами              | `Java`, `Spring Boot`, `Telegram Bot API`     |
+---
 
+## 🚀 Projects  
 
+### CRM System for Digital Service Provision  
+**Sept 2024 – May 2025**  
+A production-ready CRM platform for automating and optimizing internal service processes at Lviv State University of Life Safety.  
+- **Architecture:** Microservices  
+- **Backend:** Spring Boot, Spring Data JPA, PostgreSQL  
+- **DevOps:** Docker containerization  
+- **Features:** Service requests handling, file processing, email notifications, user authentication  
+- **Result:** Improved request turnaround time and system maintainability  
+- **GitHub:** [service-system-of-LDUBGD](https://github.com/Barabah26/service-system-of-LDUBGD) :contentReference[oaicite:6]{index=6}
 
-📈 GitHub Статистика / Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kserhi&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kserhi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" /> </p>
+### RQD Telegram Bot  
+**Feb 2024 – Nov 2024**  
+A Telegram bot to automate university application processing via a conversational interface.  
+- **Backend:** RESTful APIs, Java, Spring Boot  
+- **Integration:** Connects with existing backend systems  
+- **DevOps:** Docker  
+- **Features:** Submit, track, and receive updates on service requests in real time  
+- **GitHub:** [RQD_TelegramBot](https://github.com/Kserhi/RQD_TelegramBot) :contentReference[oaicite:7]{index=7}
 
-📫 Контакти / Contacts
-💼 [LinkedIn:](https://www.linkedin.com/in/serhii-kmyta/)
+---
 
-✉️ Email: movie.to.48@gmail.com
+## 📫 Contacts  
+- 📍 Lviv, Ukraine (Remote)  
+- ✉️ movie.to.48@gmail.com  
+- 📞 +380 68 692 3667  
+- 💬 Telegram: [@SerhiiKmyta](https://t.me/SerhiiKmyta)  
 
-💬 Telegram: @SerhiiKmyta
-
-<p align="center"><b>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</b></p>
+Languages: **Ukrainian (C2)**, **English (B1)** :contentReference[oaicite:8]{index=8}
