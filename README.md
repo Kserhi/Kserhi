@@ -1,10 +1,5 @@
 # Serhii Kmyta  
 **Java Developer**  
-
-📍 Lviv, Ukraine (Remote)  
-✉️ movie.to.48@gmail.com  
-📞 +380 68 692 3667  
-💬 Telegram: [@SerhiiKmyta](https://t.me/SerhiiKmyta)  
 🌐 [LinkedIn](https://www.linkedin.com/in/serhii-kmyta)   
 🗣️ Languages: Ukrainian (C2), English (B1)
 
